@@ -8,6 +8,6 @@ app.use(cors());
 
 app.use('/', router);
 
-app.listen(5000, () => {
+app.listen(5050, () => {
   console.log(`Server is running on port 5000`);
 });
